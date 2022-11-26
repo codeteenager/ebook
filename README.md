@@ -1,5 +1,5 @@
-# ebook
-电子书
+# 电子书下载
+汇集了自己平时所看的一些电子书籍。
 
 ## 前端
 * CSS权威指南(第四版)上册 [百度云](https://pan.baidu.com/s/17HaWe7u4ao4otTcv_OgMVQ?pwd=0e26)
@@ -47,8 +47,48 @@
 * 深入浅出Webpack [百度云](https://pan.baidu.com/s/1VB0HDpZ_VA9F0z2aiOyktA?pwd=3ow0)
 * 现代Web前端技术解析 [百度云](https://pan.baidu.com/s/1Y-mxAWK1rVjLv3V3tPsTwQ?pwd=bqe9)
 
-
- 
+## 移动端
+* Android C++高级编程-使用NDK [百度云](https://pan.baidu.com/s/1JaA0BajHGm-1Drkj-gFygA?pwd=nrl0)
+* Android Gradle权威指南 [百度云](https://pan.baidu.com/s/13o5Oq5zw30_ZYK371wt1Uw?pwd=gxfy)
+* 深入理解Android 卷二 [百度云](https://pan.baidu.com/s/1Hzg5mqG4blKJfEEn7Z1e4Q?pwd=74n6)
+* Android安全攻防权威指南 [百度云](https://pan.baidu.com/s/1aEZKB5bFsH7CbCXgL3fVQA?pwd=owr9)
+* Android安全机制解析与应用实践 [百度云](https://pan.baidu.com/s/1vNSoJGWhm0TTkB1WxaW7-A?pwd=fwn5)
+* Android安全技术揭秘与防范 [百度云](https://pan.baidu.com/s/1MkBVMq5-wnMJ_fvdKtw2Cw?pwd=11zy)
+* Android安全架构探究 [百度云](https://pan.baidu.com/s/1xIutaC_Q9e9-jNRS7n5y5w?pwd=gvxd)
+* Android插件化开发指南 [百度云](https://pan.baidu.com/s/19Ew6p36XpBSFfzAdCasUPw?pwd=eox2)
+* Android的设计与实现 卷一 [百度云](https://pan.baidu.com/s/1eyFJ8XZk62lLzosTpOajbg?pwd=8gf5)
+* Android高级进阶 [百度云](https://pan.baidu.com/s/1F1m9KosMQQy331niXMT3OA?pwd=q7p2)
+* Android技术内幕 [百度云](https://pan.baidu.com/s/16TZoBbHv3brZx6os7d9Eqw?pwd=cqyt)
+* Android进阶解密 [百度云]( https://pan.baidu.com/s/1Ug_GPKuLDODugNK2V_0TMQ?pwd=29cv)
+* 深入理解Android 卷三 [百度云](https://pan.baidu.com/s/1XQoh0klrB6JGFw7bFls0CQ?pwd=sgv4)
+* Android开发精要 [百度云](https://pan.baidu.com/s/1HWnkLsQ5ptP-Lm1ihwrHwA?pwd=gtho)
+* Android开发艺术探索 [百度云](https://pan.baidu.com/s/1SvyGo2fcf_C9R6s5z8ZXnA?pwd=23q4)
+* Android框架揭秘 [百度云](https://pan.baidu.com/s/1x-kjgFUq63Pxad80KUfpaw?pwd=x2f7)
+* Android群英传 [百度云](https://pan.baidu.com/s/1oVUGK6cWE5SBSmB77HAqAA?pwd=d6nc)
+* Android软件安全与逆向分析 [百度云](https://pan.baidu.com/s/1vE0DLHeX6kD4PG5HfdNtXg?pwd=qgk8)
+* Android系统源代码情景分析 [百度云](https://pan.baidu.com/s/1Rkk093L8hsy--coA7rujew?pwd=dgnp)
+* Android应用性能优化 [百度云](https://pan.baidu.com/s/1xVmZ3T3TBN2taBeNeM4QCg?pwd=pjep)
+* Android源码设计模式解析与实战 [百度云](https://pan.baidu.com/s/1eDRkLtTc6hOAGHn9s3oKiQ?pwd=dyv9)
+* App研发录 [百度云](https://pan.baidu.com/s/1pZtYCzMkbEBG6bZgQMOFYg?pwd=jwnl)
+* Flutter技术入门与实战 [百度云](https://pan.baidu.com/s/1uiNnlZeZ0uXNX2EVjQgwvA?pwd=017j)
+* Kotlin程序开发入门精要 [百度云](https://pan.baidu.com/s/12YbNHmmJd0jA7IqCKl6Fwg?pwd=83s2)
+* Object-C程序设计 第四版 [百度云](https://pan.baidu.com/s/1AnFwgiuGDwrCQ30eeUGo0Q?pwd=x4yg)
+* opencv Android开发实战 [百度云](https://pan.baidu.com/s/13tzsSSHDgJ-HZo62IwKLXQ?pwd=34ai)
+* React Native精解与实战 [百度云](https://pan.baidu.com/s/1VULftoZ43PeKC6YlFOTfVQ?pwd=w0xq)
+* RxJava响应式编程 [百度云](https://pan.baidu.com/s/1AHWauBY1GVBomsqVZNM5vg?pwd=k3x7)
+* 疯狂Android讲义 第三版 [百度云](https://pan.baidu.com/s/1Ye9cD8DYH0aBwAnB6sg44g?pwd=zmd8)
+* iOS讲义 上 [百度云](https://pan.baidu.com/s/13RQUhWeCWc9ZmxAaiKLvqA?pwd=4qjk)
+* iOS讲义 下 [百度云](https://pan.baidu.com/s/1gJw0wKjIQ8ofPcl0ecU9gw?pwd=q79b)
+* 构建安全的Android App [百度云](https://pan.baidu.com/s/1YoVuy72jK4lLhxgs0EDmig?pwd=y3ii)
+* 深入Android应用开发：核心技术解析与最佳实践 [百度云](https://pan.baidu.com/s/1EUmX0ZO7gxiVvRQFGZcIcg?pwd=5apm)
+* 深入解析Android虚拟机 [百度云](https://pan.baidu.com/s/1IsFpZlevSFG_LFiHbsxCEQ?pwd=y1d5)
+* 深入理解Android Telephony原理剖析与最佳实践 [百度云](https://pan.baidu.com/s/1mSEXlMujhl5vhi-14DVpYQ?pwd=0j8l)
+* 深入理解Android WiFi NFC和GPS卷 [百度云](https://pan.baidu.com/s/189HPyRVWUHI94PJiTZ-L1g?pwd=r7s5)
+* 深入理解Android内核设计思想 [百度云](https://pan.baidu.com/s/1BUy13KSLiPhKHQyuyi6RQA?pwd=xvbd)
+* 深入理解Android网络编程--技术详解与最佳实践 [百度云](https://pan.baidu.com/s/1kYyYrAC4QezELuNSu_qMkA?pwd=pbd4)
+* 深入理解Android系统 [百度云](https://pan.baidu.com/s/1Yp06Qzsmx0Krk81hxquMNA?pwd=5e7w)
+* 深入探索Android热修复技术原理 [百度云](https://pan.baidu.com/s/1cCUpdILRGonkeI23PWma_Q?pwd=1sz2)
+* 最强Android书 架构大剖析 [百度云](https://pan.baidu.com/s/1w6bXlNjEaA7mmvXR3_SV8w?pwd=po8o)
 
 ## 免责声明
-书籍全部来源于网络其他人的整理，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：1830702951@qq.com。 
+本文中所有资源均来源于互联网，本人仅搜集整理。仅供个人目的使用，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：1830702951@qq.com。 
