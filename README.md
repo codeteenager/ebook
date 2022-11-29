@@ -6,6 +6,8 @@
 * CSS权威指南(第四版)下册 [百度云](https://pan.baidu.com/s/1DRp-8GpRH39TEFIoPmGMsw?pwd=ujwx)
 * CSS揭秘 [百度云](https://pan.baidu.com/s/140eB733Ld7p8PpTY5yNGdw?pwd=1cdj)
 * CSS世界 [百度云](https://pan.baidu.com/s/1tX1TuqZy5Y12lsPXWWwNrQ?pwd=hbv7)
+* CSS选择器世界 [百度云](https://pan.baidu.com/s/1EICiPocf10g3jitWfSCBQw?pwd=ngja)
+* 从0到1 CSS进阶之旅 [百度云](https://pan.baidu.com/s/1jozUBllbiHyntKYkm9QsCQ?pwd=2l11)
 * Electron实战：入门、进阶与性能优化 [百度云](https://pan.baidu.com/s/1dXEAiEDVX5T_l_9WlUT4fA?pwd=9yp2)
 * ES6标准入门(第二版) [百度云](https://pan.baidu.com/s/1uBS1mH3crOf6vftrMW4rJg?pwd=4wax)
 * HTML5基础知识、核心技术与前沿案例 [百度云](https://pan.baidu.com/s/1f7zL6GURwua2iy_nqdt1Bw?pwd=928k)
@@ -46,6 +48,9 @@
 * 深入浅出vue.js [百度云](https://pan.baidu.com/s/1lsmA061mcHa7Ak69_0-6zA?pwd=mck2)
 * 深入浅出Webpack [百度云](https://pan.baidu.com/s/1VB0HDpZ_VA9F0z2aiOyktA?pwd=3ow0)
 * 现代Web前端技术解析 [百度云](https://pan.baidu.com/s/1Y-mxAWK1rVjLv3V3tPsTwQ?pwd=bqe9)
+* JavaScript Dom编程艺术 (第二版)  [百度云](https://pan.baidu.com/s/1h7x6f9TMJDKl6TIZZ9T9Cw?pwd=o1hr)
+* Web前端自动化构建：Gulp、Bower和Yeoman开发指南 [百度云](https://pan.baidu.com/s/1Q-_pTZgV7YeckAbXrtpzlw?pwd=p044)
+* 编译器设计(第二版) [百度云](https://pan.baidu.com/s/1rXitpq8-Tc3PsOn6Kpvj3Q?pwd=eej3)
 
 ## 移动端
 * Android C++高级编程-使用NDK [百度云](https://pan.baidu.com/s/1JaA0BajHGm-1Drkj-gFygA?pwd=nrl0)
