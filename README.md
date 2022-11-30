@@ -51,6 +51,11 @@
 * JavaScript Dom编程艺术 (第二版)  [百度云](https://pan.baidu.com/s/1h7x6f9TMJDKl6TIZZ9T9Cw?pwd=o1hr)
 * Web前端自动化构建：Gulp、Bower和Yeoman开发指南 [百度云](https://pan.baidu.com/s/1Q-_pTZgV7YeckAbXrtpzlw?pwd=p044)
 * 编译器设计(第二版) [百度云](https://pan.baidu.com/s/1rXitpq8-Tc3PsOn6Kpvj3Q?pwd=eej3)
+* React进阶之路 [百度云](https://pan.baidu.com/s/1BQroV5J8YeDt3ngtxFrq2w?pwd=q32x)
+* WebKit技术内幕 [百度云](https://pan.baidu.com/s/1Ynf2_ituq0U6bRmBhtcgZg?pwd=gzvq)
+* 性能网站建设进阶指南 [百度云](https://pan.baidu.com/s/1D64vcwbF0yMzfOMQbSn0_g?pwd=or0n)
+* JavaScript语言精粹 [百度云](https://pan.baidu.com/s/1qlv4TTKZqYpG9jxeTI1bnw?pwd=voum)
+* jQuery技术内幕：深入解析jQuery架构设计与实现原理 [百度云](https://pan.baidu.com/s/1W1m8cDCjucWJSoBySPfsiA?pwd=teg5)
 
 ## 移动端
 * Android C++高级编程-使用NDK [百度云](https://pan.baidu.com/s/1JaA0BajHGm-1Drkj-gFygA?pwd=nrl0)
