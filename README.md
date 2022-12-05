@@ -56,6 +56,8 @@
 * 性能网站建设进阶指南 [百度云](https://pan.baidu.com/s/1D64vcwbF0yMzfOMQbSn0_g?pwd=or0n)
 * JavaScript语言精粹 [百度云](https://pan.baidu.com/s/1qlv4TTKZqYpG9jxeTI1bnw?pwd=voum)
 * jQuery技术内幕：深入解析jQuery架构设计与实现原理 [百度云](https://pan.baidu.com/s/1W1m8cDCjucWJSoBySPfsiA?pwd=teg5)
+* Node.js进阶之路 [百度云](https://pan.baidu.com/s/1_lEmiHPcVtpsTOM55rhgVg?pwd=69dr)
+* 编写高质量代码：改善JavaScript程序的188个建议 [百度云](https://pan.baidu.com/s/1VFFf8P--svf2SLpn2xt90A?pwd=yfe0)
 
 ## 移动端
 * Android C++高级编程-使用NDK [百度云](https://pan.baidu.com/s/1JaA0BajHGm-1Drkj-gFygA?pwd=nrl0)
