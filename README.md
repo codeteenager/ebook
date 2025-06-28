@@ -2,6 +2,7 @@
 汇集了自己平时所看的一些电子书籍。
 
 更多精彩请关注微信公众号：
+<img src="./weixin.jpg" width="200" height="200"/>
 ![](./weixin.jpg)
 
 ## 前端
