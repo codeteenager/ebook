@@ -1,9 +1,8 @@
 # 电子书下载
 汇集了自己平时所看的一些电子书籍。
 
-更多精彩请关注微信公众号：
+更多精彩请关注微信公众号：<br/>
 <img src="./weixin.jpg" width="200" height="200"/>
-![](./weixin.jpg)
 
 ## 前端
 * CSS权威指南(第四版)上册 [百度云](https://pan.baidu.com/s/17HaWe7u4ao4otTcv_OgMVQ?pwd=0e26)
